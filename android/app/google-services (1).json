@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414158169499",
+    "firebase_url": "https://bleyidev.firebaseio.com",
+    "project_id": "bleyidev",
+    "storage_bucket": "bleyidev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414158169499:android:30de46a97cc6cbfca36d3e",
+        "android_client_info": {
+          "package_name": "com.example.autentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414158169499-riq3jn97mhq2a29bsrr65gdgsdk9corl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIiLrx4bR4xy3chHLRBAnlk3NXbAoqRnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414158169499-riq3jn97mhq2a29bsrr65gdgsdk9corl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
